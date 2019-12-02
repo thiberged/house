@@ -1,0 +1,11 @@
+kaggle
+bigml
+sklearn
+matplotlib
+rise
+jupyter_contrib_nbextensions
+jupyterthemes
+pandas
+ipynb
+xgboost
+tensorflow==2.0.0
